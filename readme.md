@@ -33,6 +33,6 @@ Commiting means you are sure you want to change the files and the commit message
 9. Type `git push origin master` to push the changes to the remote repository and let everyone know about the changes
 10. Type `git pull` to update your local repository so that you can see what changes are made by others
 
-Important Note:
+**Important Note:
 Every file in the unreal project, including .uasset and .umap, CANNOT BE MERGED. Therefore, WE NEED TO SET UP A DEVELOPMENT SCHEDULE
-TO ENSURE WE DO NOT DEVELOP AT THE SAME TIME. DO NOT TRY TO STASH APPLY ANY FILES OR THINGS WILL TURN TO SHIT. Thanks.
+TO ENSURE WE DO NOT DEVELOP AT THE SAME TIME. DO NOT TRY TO STASH APPLY ANY FILES OR THINGS WILL TURN TO SHIT. Thanks.**
